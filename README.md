@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lominub44
+- :smirk: i am a professional skid
 - 👀 I’m interested in: Software/Hardware
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: Linux
 - 💞️ I’m looking to collaborate on: no
 - 📫 How to reach me: you can't
 
