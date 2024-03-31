@@ -29,9 +29,6 @@ and yes, HTML isnt a Programming Language, but ist here😈
 
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lominub44&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Lominub44's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lominub44&show_icons=true&theme=radical)
-
-
 
 ## Professional skills
 
