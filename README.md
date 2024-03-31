@@ -27,24 +27,30 @@ and yes, HTML isnt a Programming Language, but ist here😈
 [![My Skills](https://skillicons.dev/icons?i=windows,mint,apple)](https://skillicons.dev)
 
 ## Stats 🔥
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lominub44&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lominub44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Professional skills
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lominub44&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## Very impressive skills
+Python:
 ```python
 print("Hello World")
 ```
+
+HTML:
 ```html
 <h1>Hello World</h1>
 ```
+
+CSS:
 ```css
 /* Hello World in CSS :( */
 ```
+
+JavaScipt:
 ```js
 console.log("Hello World")
 ```
-
-
 
 
 
