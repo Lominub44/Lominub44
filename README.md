@@ -2,10 +2,12 @@
 
 Welcome to my GitHub profile! I create some stupid stuff.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
 ## About Me
 
 - 😏 i am a professional stack overflow-searcher
-- 👀 I’m interested in: Software/Hardware
+- 👀 I’m interested in: Software/Hardware (wow)
 - 🌱 I’m currently learning: Linux
 - 💞️ I’m looking to collaborate on: no
 - 📫 How to reach me: you can't
@@ -16,7 +18,7 @@ Welcome to my GitHub profile! I create some stupid stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
 
-and yes, HTML isnt a Programming Language, but ist here😈
+And yes, HTML isnt a Programming Language, but ist here😈
 
 ### Tools 💀
 
@@ -28,6 +30,8 @@ and yes, HTML isnt a Programming Language, but ist here😈
 
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lominub44&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lominub44's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lominub44&show_icons=true&theme=dark)
 
 ## Very impressive skills
 Python:
