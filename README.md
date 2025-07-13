@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I create some stupid stuff.
 
 - 😏 i am a professional stack overflow-searcher
 - 👀 I’m interested in: Software/Hardware (wow)
-- 🌱 I’m currently learning: Linux
+- 🌱 I’m currently learning: breathing
 - 💞️ I’m looking to collaborate on: no
 - 📫 How to reach me: you can't
 
