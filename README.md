@@ -16,17 +16,17 @@ Welcome to my GitHub profile! I create some stupid stuff.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,md)](https://skillicons.dev)
 
-And yes, HTML isnt a Programming Language, but ist here😈
+Yes, HTML and MD aren't Programming Languages, but they are here 😈
 
 ### Tools 💀
 
-[![My Skills](https://skillicons.dev/icons?i=github,bash,discord,robloxstudio,stackoverflow,blender,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,bash,discord,vscode,sublime,stackoverflow,flask,obsidian)](https://skillicons.dev)
 
 ### Operating systems
 
-[![My Skills](https://skillicons.dev/icons?i=windows,mint,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,mint,ubuntu,apple)](https://skillicons.dev)
 
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lominub44&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,7 +46,7 @@ HTML:
 
 CSS:
 ```css
-/* Hello World in CSS :( */
+/* Hello World */
 ```
 
 JavaScipt:
