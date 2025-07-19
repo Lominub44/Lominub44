@@ -57,7 +57,7 @@ console.log("Hello World")
 ### [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
 ```lol 
 HAI 1.2
-VISIBLE "Welcome to JDoodle!!"
+VISIBLE "Hello World"
 KTHXBYE
 ```
 
